@@ -1,0 +1,14 @@
+.pos{
+    padding-left:15px;
+    background: url(./img/dw.png) no-repeat;
+}
+
+.lis{
+    float:left;
+   
+}
+
+.lis li{
+    float:left;
+    padding:5px 10px;
+}

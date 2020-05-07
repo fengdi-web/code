@@ -1,0 +1,21 @@
+ul{
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+.nav{ 
+  width:300px;
+}
+.nav>li{
+  float:left;
+  width:99px;
+  height:40px;
+  text-align: center;
+  line-height:40px;
+  background:#fcc;
+  border-right:1px solid #ccc;
+}
+.nav>li li{
+  background:#0ee;
+  border-bottom:1px solid #fcc;
+}
